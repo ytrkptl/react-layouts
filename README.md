@@ -2,7 +2,7 @@
 
 1. The first layout can be found here: <https://github.com/ytrkptl/layout-1>
 
-It looks like the following on larger screens but with no so funkier colors of course:
+It looks like the following on larger screens but with not so funkier colors of course:
 ![layout-1 preview](/assets/layout-1-excal-preview.svg)
 
 Here's a mobile preview:
